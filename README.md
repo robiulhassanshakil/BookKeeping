@@ -5,7 +5,7 @@ BookKeeping is a .NET 7 project that requires the .NET 7 SDK to run. This projec
 ## Prerequisites
 - .NET 7 SDK
 - SQL Server 2019
-- Access to the BookKeeping database backup file located in the `DataBaseBackup` folder.
+- Access to the BookKeeping database backup file located in the `DatabaseBackup` folder.
 
 ## Setup
 1. Clone the repository to your local machine.
